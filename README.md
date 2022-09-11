@@ -1,1 +1,1 @@
-# WIT_hackerton
+# WIT_hackaton
